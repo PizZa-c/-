@@ -1,0 +1,3 @@
+date:4 id:1 interval:2 name:zhangsan room:3 status:0
+date:1 id:1 interval:2 name:zhangsan room:1 status:2
+date:1 id:1 interval:2 name:zhangsan room:1 status:-1
